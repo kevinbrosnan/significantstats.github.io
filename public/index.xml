@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Brosnan on Kevin Brosnan</title>
+    <link>https://significantstats.github.com/index.xml</link>
+    <description>Recent content in Kevin Brosnan on Kevin Brosnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Kevin Brosnan</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Response Times</title>
+      <link>https://significantstats.github.com/project/sprintstarts/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/sprintstarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Cytometry</title>
+      <link>https://significantstats.github.com/project/cytometry/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/cytometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile Regression</title>
+      <link>https://significantstats.github.com/project/quantileregression/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/quantileregression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweet Analyser</title>
+      <link>https://significantstats.github.com/project/tweetanalyser/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/tweetanalyser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Bot</title>
+      <link>https://significantstats.github.com/project/twitterbot/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/twitterbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False Starts in Athletics: Are they truly fair?</title>
+      <link>https://significantstats.github.com/talk/readingrss2016/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/readingrss2016/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;df03f640a7b141789916839b3f7dec7b&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>False Start Detection in Elite Athletics</title>
+      <link>https://significantstats.github.com/talk/sim2016/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/sim2016/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;98ffcc94d1ca4125a8b97e8622b59af1&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Markov Random Fields Approach to the Gating of Flow Cytometry Data</title>
+      <link>https://significantstats.github.com/talk/rss2016/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/rss2016/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;8d5945ce1c904584aa6f5fc3bd3ba408&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DatSci Student of the Year</title>
+      <link>https://significantstats.github.com/awards/datsci/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/datsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of false-start disqualification rules on response-times of elite-standard sprinters</title>
+      <link>https://significantstats.github.com/publication/sprintstarts/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/publication/sprintstarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Markov Random Fields Approach to the Gating of Flow Cytometry Data</title>
+      <link>https://significantstats.github.com/talk/rsc2016/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/rsc2016/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;bbee0b036f804e4ea32c4dee663ede8d&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RSC Best Conference Talk</title>
+      <link>https://significantstats.github.com/awards/rscbesttalk/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/rscbesttalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges for tertiary level mathematics tutors with no formal education training: the experience of two practitioners.</title>
+      <link>https://significantstats.github.com/talk/IMLSN2016/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/IMLSN2016/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;c64a729449e24d91a717f4e0d4a59033&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elite Athletics: Is the false start disqualification rule appropriate?</title>
+      <link>https://significantstats.github.com/talk/pintofscience2016/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/pintofscience2016/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;9763c27bb4ce47d292108410de9128fb&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantile Regression - Reference range for thyroid function test in pregnancy.</title>
+      <link>https://significantstats.github.com/talk/sim2015/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/talk/sim2015/</guid>
+      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;d4c8332ddfd44b20b4852bf51fe7423b&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

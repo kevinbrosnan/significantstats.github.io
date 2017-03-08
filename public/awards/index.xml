@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards on Kevin Brosnan</title>
+    <link>https://significantstats.github.com/awards/index.xml</link>
+    <description>Recent content in Awards on Kevin Brosnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Kevin Brosnan</copyright>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/awards/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DatSci Student of the Year</title>
+      <link>https://significantstats.github.com/awards/datsci/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/datsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSC Best Conference Talk</title>
+      <link>https://significantstats.github.com/awards/rscbesttalk/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/rscbesttalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irish Research Council Scholarship</title>
+      <link>https://significantstats.github.com/awards/irc/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/irc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Limerick Gold Medal</title>
+      <link>https://significantstats.github.com/awards/goldmedal/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/goldmedal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Limerick Silver Medal</title>
+      <link>https://significantstats.github.com/awards/silvermedal/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/silvermedal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamilton Award in Mathematics</title>
+      <link>https://significantstats.github.com/awards/hamilton/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/awards/hamilton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
