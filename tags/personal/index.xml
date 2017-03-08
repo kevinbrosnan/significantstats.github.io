@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Kevin Brosnan</title>
+    <link>https://significantstats.github.com/tags/personal/index.xml</link>
+    <description>Recent content in Personal on Kevin Brosnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Kevin Brosnan</copyright>
+    <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tweet Analyser</title>
+      <link>https://significantstats.github.com/project/tweetanalyser/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/tweetanalyser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Bot</title>
+      <link>https://significantstats.github.com/project/twitterbot/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://significantstats.github.com/project/twitterbot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
